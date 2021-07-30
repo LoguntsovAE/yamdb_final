@@ -1,3 +1,2 @@
-# yamdb_final
-yamdb_final
-https://github.com/LoguntsovAE/yamdb_final/actions/workflows/yamdb_final/workflow/badge.svg
+# api_yamdb
+![yamdb_final](https://github.com/LoguntsovAE/yamdb_final/workflows/yamdb_final_workflow/badge.svg)
