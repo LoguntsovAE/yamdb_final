@@ -1,3 +1,3 @@
 # yamdb_final
 yamdb_final
-![example workflow](https://github.com/LoguntsovAE/yamdb_final/actions/workflows/yamdb_final workflow/badge.svg)
+https://github.com/LoguntsovAE/yamdb_final/actions/workflows/yamdb_final/workflow/badge.svg
