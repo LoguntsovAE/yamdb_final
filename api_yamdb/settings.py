@@ -12,14 +12,15 @@ SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '178.154.222.154',
-    'localhost',
-    'loguntsovae.tk',
-    'www.loguntsovae.tk',
-]
+ALLOWED_HOSTS = ['*']
 
-#  Custom model for user
+# ALLOWED_HOSTS = [
+#     '178.154.222.154',
+#     'localhost',
+#     'loguntsovae.tk',
+#     'www.loguntsovae.tk',
+# ]
+
 AUTH_USER_MODEL = 'User.User'
 
 INSTALLED_APPS = [
