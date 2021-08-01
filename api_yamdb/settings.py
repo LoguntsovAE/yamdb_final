@@ -7,19 +7,11 @@ load_dotenv()
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# SECRET_KEY = os.getenv('SECRET_KEY_DJANGO')
-SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
+SECRET_KEY = os.getenv('SECRET_KEY_DJANGO')
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
-
-# ALLOWED_HOSTS = [
-#     '178.154.222.154',
-#     'localhost',
-#     'loguntsovae.tk',
-#     'www.loguntsovae.tk',
-# ]
 
 AUTH_USER_MODEL = 'User.User'
 
