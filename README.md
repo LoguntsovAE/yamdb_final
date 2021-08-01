@@ -23,7 +23,7 @@ API для проекта yamdb.
      
 1. Клонирование репозитория 
 ```
-git clone https://github.com/Stevinel/infra_sp2
+git clone https://github.com/LoguntsovAE/yamdb_final
 ```
 2. Сборка и запуск образа 
 ```
