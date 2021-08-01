@@ -63,10 +63,6 @@ jobs:
             sudo docker-compose stop
             sudo docker-compose rm web
             sudo docker-compose up -d
-            docker-compose exec web python manage.py makemigrations api --noinput
-            docker-compose exec web python manage.py makemigrations User --noinput
-            sudo docker-compose exec web python manage.py migrate --noinput
-            sudo docker-compose exec web python manage.py collectstatic
 
   send_message:
     runs-on: ubuntu-latest
