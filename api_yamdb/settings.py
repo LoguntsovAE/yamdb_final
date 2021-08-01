@@ -15,7 +15,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '178.154.222.154',
     'localhost',
-    ]
+]
 
 #  Custom model for user
 AUTH_USER_MODEL = 'User.User'
