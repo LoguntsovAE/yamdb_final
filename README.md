@@ -1,8 +1,5 @@
 [![yamdb_final_workflow](https://github.com/LoguntsovAE/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/LoguntsovAE/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
-### Адрес проекта
-http://loguntsovae.tk/api/v1/
-
 ## Описание
 API для проекта yamdb.
 
